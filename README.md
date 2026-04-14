@@ -1,9 +1,11 @@
 # 1st
-1st GitHub repo 
-my name is **jennifer** im *i"m learing github* 
-## things I like to do##
+This is my 1st GitHub repo! 
+My name is **Jennifer** *I'm learing github* 
+## Things I like to do
 -I love painting
--play soccer
--swim
+
+-Playing soccer
+
+-Swimming
 
 
